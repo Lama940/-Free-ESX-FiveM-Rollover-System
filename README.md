@@ -22,7 +22,7 @@ An advanced FiveM rollover detection system that improves realism after a vehicl
 3. Add the resource to your `server.cfg`.
 
 ```cfg
-ensure fivem-rollover-system
+ensure [Folder Name]
 ```
 
 ## Configuration
