@@ -47,6 +47,7 @@ You can easily configure:
 
 - FiveM
 - OneSync (recommended)
+- ESX
 
 ## 📄 License
 
